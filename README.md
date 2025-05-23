@@ -8,7 +8,7 @@ This repository is designed to be used as a **sandbox environment** for experime
 
 ## 📌 Table of Contents
 
-- [Introduction](/README#introduction)
+- [Introduction](/README.md#introduction)
 - [Purpose](#purpose)
 - [Features](#features)
 - [Getting Started](#getting-started)
