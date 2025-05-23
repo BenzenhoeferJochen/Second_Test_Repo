@@ -8,7 +8,7 @@ This repository is designed to be used as a **sandbox environment** for experime
 
 ## 📌 Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](/README.md#introduction)
 - [Purpose](#purpose)
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -26,7 +26,7 @@ This repository is designed to be used as a **sandbox environment** for experime
 - [Contact](#contact)
 
 ---
-
+<a name="introduction"></a>
 ## 🧭 Introduction
 
 **Second_Test_Repo** is intended for use in:
@@ -39,6 +39,7 @@ This repository is designed to be used as a **sandbox environment** for experime
 
 ---
 
+<a name="purpose"></a>
 ## 🎯 Purpose
 
 The goal of this repository is to provide a safe and flexible environment to:
@@ -53,6 +54,7 @@ Whether you're a beginner just starting to learn Git or an experienced developer
 
 ---
 
+<a name="features"></a>
 ## 🌟 Features
 
 - ✅ Simple structure, easy to extend
@@ -65,8 +67,10 @@ Whether you're a beginner just starting to learn Git or an experienced developer
 
 ---
 
+<a name="getting-started"></a>
 ## 🚀 Getting Started
 
+<a name="prerequisites"></a>
 ### 🛠️ Prerequisites
 
 To use this repository effectively, you should have:
@@ -78,6 +82,7 @@ To use this repository effectively, you should have:
 
 ---
 
+<a name="installation"></a>
 ### 📥 Installation
 
 ```bash
@@ -94,6 +99,7 @@ cd Second_Test_Repo
 
 ---
 
+<a name="usage"></a>
 ## 💡 Usage
 
 - Create new branches and simulate parallel development
@@ -105,6 +111,7 @@ cd Second_Test_Repo
 
 ---
 
+<a name="repository-structure"></a>
 ## 📁 Repository Structure
 
 ```bash
@@ -130,8 +137,10 @@ Second_Test_Repo/
 
 ---
 
+<a name="examples"></a>
 ## 🧪 Examples
 
+<a name="python-script"></a>
 ### Python Script
 
 ```python
@@ -142,6 +151,7 @@ if __name__ == "__main__":
     hello()
 ```
 
+<a name="shell-script"></a>
 ### Shell Script
 
 ```bash
@@ -151,6 +161,7 @@ echo "Testing Bash script execution in Second_Test_Repo"
 
 ---
 
+<a name="best-practices"></a>
 ## 🧼 Best Practices
 
 - Create feature branches: `git checkout -b feature/my-feature`
@@ -161,6 +172,7 @@ echo "Testing Bash script execution in Second_Test_Repo"
 
 ---
 
+<a name="common-git-commands"></a>
 ## 🧰 Common Git Commands
 
 ```bash
@@ -191,6 +203,7 @@ git merge branch-name
 
 ---
 
+<a name="github-features-to-try"></a>
 ## 🔧 GitHub Features to Try
 
 - Branch protection rules
@@ -203,6 +216,7 @@ git merge branch-name
 
 ---
 
+<a name="learning-resources"></a>
 ## 📚 Learning Resources
 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
@@ -213,6 +227,7 @@ git merge branch-name
 
 ---
 
+<a name="contributing"></a>
 ## 🤝 Contributing
 
 This is a test repository, but you're welcome to contribute by:
@@ -224,12 +239,14 @@ This is a test repository, but you're welcome to contribute by:
 
 ---
 
+<a name="license"></a>
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](/LICENSE).
 
 ---
 
+<a name="contact"></a>
 ## 📬 Contact
 
 Feel free to reach out via GitHub or open an issue if you have questions or suggestions.
